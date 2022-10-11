@@ -47,4 +47,6 @@
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zavalniuk21&theme=highcontrast&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
     
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zavalniuk21)](https://github.com/zavalniuk21/github-readme-stats)
+[![zavalniuk21's GitHub stats](https://github-readme-stats.vercel.app/api?username=zavalniuk21)](https://github.com/zavalniuk21/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zavalniuk21)](https://github.com/zavalniuk21/github-profile-trophy)
+[![zavalniuk21's github activity graph](https://activity-graph.herokuapp.com/graph?username=zavalniuk21)](https://github.com/zavalniuk21/github-readme-activity-graph)
