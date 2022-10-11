@@ -34,7 +34,7 @@
 - :money_mouth_face: сбербанк
   
   ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки программирования :
 
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -53,7 +53,7 @@
    
   ---
 
-### :fire: My Stats :
+### :fire: Моя статистика :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zavalniuk21&theme=highcontrast&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
     
 [![zavalniuk21's GitHub stats](https://github-readme-stats.vercel.app/api?username=zavalniuk21)](https://github.com/zavalniuk21/github-readme-stats)
