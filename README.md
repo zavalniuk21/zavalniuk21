@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/GGsdLxyxyE3Sw/giphy.gif" width="100"/>
 </div>
+
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
@@ -9,9 +10,11 @@
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
+
 <div id="viewprof" align="center">
   <img src="https://komarev.com/ghpvc/?username= zavalniuk21&style=flat-square&color=blue" alt=""/>
 </div>
+
 <div id="heythere" align="center">
   <h1>
   йоу
@@ -20,7 +23,9 @@
 <div align="center">
 <img src="https://media.giphy.com/media/JcEbzHIM7lJBe/giphy.gif" width="600" height="300"/>
 </div>
-👨‍💻 About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" width="100"> from Moscow.
+  
+### :yum: About Me : 
+ I am a Full Stack Developer <img src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" width="100"> from Moscow.
   
 - 🌸: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
