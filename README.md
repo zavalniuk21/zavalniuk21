@@ -14,9 +14,12 @@
 </div>
 <div id="heythere" align="center">
   <h1>
-  Приветик
+  йоу
   <img src="https://media.giphy.com/media/5cdenDXni65aM/giphy.gif" width="30px"/>
 </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/Rlwz4m0aHgXH13jyrE/giphy-downsized-large.gif" width="600" height="300"/>
 </div>
 
 
