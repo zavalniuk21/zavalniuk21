@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://telegram.com">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://vk.com/jtkxm">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
@@ -24,14 +24,14 @@
 <img src="https://media.giphy.com/media/JcEbzHIM7lJBe/giphy.gif" width="600" height="300"/>
 </div>
   
-### :yum: About Me : 
- I am a Full Stack Developer <img src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" width="100"> from Moscow.
+### :yum: Обо мне : 
+ Я студент <img src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" width="100"> из Москвы.
   
-- 🌸: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :grin: Люблю памелу и яблоки
 
-- 🍮: Exploring Technical Content Writing.
+- :star_struck: чупапи муняня
 
-- 🍨: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :money_mouth_face: сбербанк
   
   ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -48,6 +48,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+    
+    
+   
+  ---
 
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zavalniuk21&theme=highcontrast&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
